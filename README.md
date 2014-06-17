@@ -8,8 +8,8 @@ UI - bootStrap.js<br>
 <a target="_blank" href="/cyberkatze/geoQuizManager/blob/master/s1.png" style="width:200px;">
 <img style="max-width:100%;" title="home screen geoQuizManager" alt="home screen geoQuizManager" src="/cyberkatze/geoQuizManager/raw/master/s1.png">
 </a>
-<a target="_blank" href="/cyberkatze/geoQuizManager/blob/master/s2.png" style="width:200px;">
-<img style="max-width:100%;" title="details screen geoQuizManager" alt="details screen geoQuizManager" src="/cyberkatze/geoQuizManager/raw/master/s2.png">
+<a target="_blank" href="s2.png" style="width:200px;">
+<img style="max-width:100%;" title="details screen geoQuizManager" alt="details screen geoQuizManager" src="s2.png">
 </a>
 <br>
 <br>

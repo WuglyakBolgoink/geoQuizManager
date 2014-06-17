@@ -5,8 +5,12 @@ Logic - BackBone.js<br>
 UI - bootStrap.js<br>
 [camera/file/file-transfer/dialogs/network-Information/geoLocation] - PhoneGap Plugins
 <br>
-<img style="width: 200px;" src="s1.png" alt="home screen geoQuizManager" title="home screen geoQuizManager" />
-<img style="width: 200px;" src="s2.png" alt="details screen geoQuizManager" title="details screen geoQuizManager" />
+<a target="_blank" href="/cyberkatze/geoQuizManager/blob/master/s1.png" style="width:200px;">
+<img style="max-width:100%;" title="home screen geoQuizManager" alt="home screen geoQuizManager" src="/cyberkatze/geoQuizManager/raw/master/s1.png">
+</a>
+<a target="_blank" href="/cyberkatze/geoQuizManager/blob/master/s2.png" style="width:200px;">
+<img style="max-width:100%;" title="details screen geoQuizManager" alt="details screen geoQuizManager" src="/cyberkatze/geoQuizManager/raw/master/s2.png">
+</a>
 <br>
 <br>
 <h2>Notice</h2>

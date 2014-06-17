@@ -1,33 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.example.test" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Hello Cordova</name>
-    <preference name="loglevel" value="DEBUG" />
-    <feature name="App">
-        <param name="android-package" value="org.apache.cordova.App" />
-    </feature>
-    <feature name="Camera">
-        <param name="android-package" value="org.apache.cordova.camera.CameraLauncher" />
-    </feature>
-    <feature name="Notification">
-        <param name="android-package" value="org.apache.cordova.dialogs.Notification" />
-    </feature>
-    <feature name="File">
-        <param name="android-package" value="org.apache.cordova.file.FileUtils" />
-        <param name="onload" value="true" />
-    </feature>
-    <feature name="FileTransfer">
-        <param name="android-package" value="org.apache.cordova.filetransfer.FileTransfer" />
-    </feature>
-    <feature name="NetworkStatus">
-        <param name="android-package" value="org.apache.cordova.networkinformation.NetworkManager" />
-    </feature>
-    <name>testProject</name>
-    <description>
-        A sample Apache Cordova application that responds to the deviceready event.
-    </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
-    </author>
-    <content src="index.html" />
-    <access origin="*" />
+<widget xmlns:cdv="http://cordova.apache.org/ns/1.0"
+	id="de.cyberkatze.geoquizmanager"
+	version="1.0.0"
+	xmlns="http://www.w3.org/ns/widgets" >
+	<preference
+		name="loglevel"
+		value="DEBUG" />
+	<feature name="App" >
+		<param
+			name="android-package"
+			value="org.apache.cordova.App" />
+	</feature>
+	<feature name="Camera" >
+		<param
+			name="android-package"
+			value="org.apache.cordova.camera.CameraLauncher" />
+	</feature>
+	<feature name="Notification" >
+		<param
+			name="android-package"
+			value="org.apache.cordova.dialogs.Notification" />
+	</feature>
+	<feature name="File" >
+		<param
+			name="android-package"
+			value="org.apache.cordova.file.FileUtils" />
+		<param
+			name="onload"
+			value="true" />
+	</feature>
+	<feature name="FileTransfer" >
+		<param
+			name="android-package"
+			value="org.apache.cordova.filetransfer.FileTransfer" />
+	</feature>
+	<feature name="NetworkStatus" >
+		<param
+			name="android-package"
+			value="org.apache.cordova.networkinformation.NetworkManager" />
+	</feature>
+	<name>
+geoQuizManager
+	</name>
+	<description>
+        PhoneGap HTML5 webApp - create images and send it on server with title and description and points for some Question.
+	</description>
+	<author
+		email="elderov@gmail.com"
+		href="http://www.cyberkatze.de" >
+        CyberKatze Team
+	</author>
+	<content src="index.html" />
+	<access origin="*" />
 </widget>

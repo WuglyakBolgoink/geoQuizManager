@@ -4,3 +4,11 @@ Based on:<br>
 Logic - BackBone.js<br>
 UI - bootStrap.js<br>
 [camera/file/file-transfer/dialogs/network-Information/geoLocation] - PhoneGap Plugins
+<br>
+<br>
+<br>
+<h2>Notice</h2>
+For iOS you must:<br>
+1) copy folder "assets/www" into your project<br>
+2) copy icons from "res/drawable" dir into your project and change it name with Apple icon rules. For example: icon@72x.png  
+
